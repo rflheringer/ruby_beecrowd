@@ -1,0 +1,7 @@
+# Ruby
+*.gem
+.bundle
+/vendor/bundle
+
+# OS
+.DS_Store
