@@ -3,6 +3,6 @@ aux = 2
 
 while aux <= i
   result = aux**2
-  puts format("#{aux}ˆ2 = #{result}")
+  puts ("#{aux}^2 = #{result}")
   aux += 2
 end

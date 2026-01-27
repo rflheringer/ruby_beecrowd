@@ -8,7 +8,6 @@ loop do
     gas += 1 if type == 2
     die += 1 if type == 3
   end
-  puts type
   break if type == 4 
 end
 
